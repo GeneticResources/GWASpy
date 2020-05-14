@@ -1,3 +1,7 @@
+
+# based on qqman, use ggolot2 style and avoid overlap for annotations.
+
+
 library(calibrate)
 
 
